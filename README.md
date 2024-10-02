@@ -1,5 +1,7 @@
 lattesyrup (he/him), learning obsidian, trying to code c# for uni.
+
 telegram: t.me/lattesyrup
+
 fun fact: i'm still 17y (10m) old.
 
 <!---
