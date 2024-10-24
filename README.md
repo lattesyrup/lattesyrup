@@ -1,14 +1,14 @@
 learning obsidian, trying to code c# for uni.
 
-fun fact: i'm still 17y (10m) old.
+fun fact: i'm still 17y (11m) old.
 
 ```csharp
 class Program
 {
-  private static void Main()
-  {
-    Console.WriteLine("hello world;");
-  }
+    private static void Main()
+    {
+        Console.WriteLine("hello world;");
+    }
 }
 ```
 
