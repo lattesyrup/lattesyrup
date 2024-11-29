@@ -1,6 +1,6 @@
 learning obsidian, trying to code c# for uni.
 
-fun fact: i'm still 17y (11m) old.
+fun fact: i'm 18y (0m) old.
 
 ```csharp
 class Program
